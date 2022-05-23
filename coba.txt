@@ -1,0 +1,38 @@
+masuk
+hp masuk
+curl https://rclone.org/install.sh | sudo bash
+
+
+https://rclone.org/remote_setup/
+
+
+ls91zsv9em3iq2p
+
+k3kwwyohikoktal
+
+sl.BIJXA2BMxG8rLqVmfpgDxW1Q22mSs6m743xmQa40zwC5vx_ELTDz3Fdyu3cx7ZflPJCZMAOYpgxoma4bFyMjxPgWl900_GLDl61oyxzn1heZgjJKy
+
+
+8vni17s8knllrx0
+
+8z6jwzmsqme3dqn
+
+sudo curl https://raw.githubusercontent.com/cjnaz/rclonesync-V2/master/rclonesync --output /usr/local/bin/rclonesync && sudo chmod +x /usr/local/bin/rclonesync
+
+
+
+mkdir ~/.rclonesyncwd
+
+sudo curl https://raw.githubusercontent.com/cjnaz/rclonesync-V2/master/rclonesync --output /usr/local/bin/rclonesync
+
+rclonesync --first-sync tokoira:/tokoira /home/amr/Documents/tokoira
+
+rclonesync tokoira:/tokoira /home/amr/Documents/tokoira
+
+
+crontab -e
+
+* * * * * /usr/local/bin/rclonesync tokoira:/tokoira /home/amr/Documents/tokoira
+
+
+
